@@ -1,10 +1,34 @@
-## Introduction
-This repository contains my coursework deliverables for **MIS 446: Data Visualization with Power BI (Q3 2024–2025).**
+# Data Visualization with Power BI
 
-The focus of this course is on designing interactive dashboards and applying data visualization techniques to transform raw data into meaningful business insights. The uploaded files showcase two Power BI projects:
+Interactive Power BI dashboards for business performance analysis across multiple domains.
 
-- **Sales Performance Dashboard** : Analyzes sales data across branches, managers, and product types, highlighting performance against targets and trends over time.
+---
 
-- **HR Analytics Dashboard** : Provides insights into workforce demographics, diversity, employee distribution, and hiring trends to support data-driven HR decision-making.
+## Dashboards
 
-These projects demonstrate the ability to apply visualization best practices to create clear, actionable, and user-friendly dashboards that help organizations monitor performance and make strategic decisions.
+### Furniture Sale Performance
+Business performance dashboard for an office furniture company — analyzing revenue, orders, and product performance across regions and time periods.
+
+📂 [`furniture-sale-performance/`](./furniture-sale-performance)
+
+---
+
+### Pizza Sale Performance
+Sales performance dashboard for a multi-branch pizza chain across 5 US states — tracking sales by manager, branch, pizza type, and target achievement.
+
+📂 [`pizza-sale-performance/`](./pizza-sale-performance)
+
+---
+
+### Human Resource Management
+Multi-page HR analytics dashboard covering workforce demographics, performance, tenure, and compensation across departments.
+
+**Pages:** Overview · Demographics · Performance · Tenure & Promotion · Compensation
+
+📂 [`human-resource-management/`](./human-resource-management)
+
+---
+
+## Tools
+
+`Power BI` · `DAX` · `Data Modeling` · `Business Intelligence`
